@@ -1,3 +1,3 @@
-# ALG2 2021 ukázky z přednášek
+# ALG2 - ukázky z přednášek - 2021
 
 V repozitáři, v adresáři src (respektive v jeho podadresářích), jsou ukázky z jednotlivých přednášek z předmětu ALG2.
