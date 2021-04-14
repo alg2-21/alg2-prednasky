@@ -1,2 +1,3 @@
-# cv_template
-Repozitář pro sdílení prací a odevzdání úkolů ze cvičení
+# ALG2 2021 ukázky z přednášek
+
+V repozitáři, v adresáři src (respektive v jeho podadresářích), jsou ukázky z jednotlivých přednášek z předmětu ALG2.
