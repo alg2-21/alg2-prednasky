@@ -41,7 +41,8 @@ public class KopieSouboruTryWithResources {
                 fos.write(buf, 0, pocet);
             }
 
-            // automaticke uzavreni
+            // uzavreni je zajisteno automaticky
+            // "jako by"zde byl nasledujici zakomentovany k=od
             // if (fis != null) fis.close();
             // if (fos != null) fos.close();
         } catch (IOException ex) {
